@@ -1,5 +1,5 @@
-The cleaner.bat in this repository is a junk file cleaner for Windows. The tool was translated to German and I am too lazy to translate it back to English.
+The cleaner.bat in this repository is a junk file cleaner for Windows. There are two versions of it. One is English and the other is German (translated).
 
-It should do what its supposed to do, if you encounter any errors, feel free to send me a message on Discord: shehajeez
+Choose cleaner.bat if you want the english version or choose bereiniger.bat if you want the german version.
 
-This repository will be getting new tools uploaded to it every like 2 weeks or month or so.
+To clean up your recycle bin and prefetch folder, run the script as admin so it has access.
