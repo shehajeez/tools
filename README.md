@@ -8,3 +8,9 @@ cleaner.bat VT: https://www.virustotal.com/gui/file/098962b79d5638596fa5c4c8ea49
 bereiniger.bat VT: https://www.virustotal.com/gui/file/63449b2cc7285ad0698ce4a2a23e1a6a7839722caca3b862a3848505fca9ad1b/behavior
 
 The 2-3 detections are due to the obfuscation. Don't mind them.
+
+Arch PS Injector (DLL INJECTOR) Usage:
+1 thing, the injector is completely open-source, do whatever you want with it.
+To use it right click on the file and click "Run with Powershell"
+Now select any DLL file from any directory and click inject and it should inject.
+
