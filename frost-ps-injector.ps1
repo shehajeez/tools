@@ -1,7 +1,7 @@
 Add-Type -AssemblyName System.Windows.Forms
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "Arch Powershell DLL Injector"
+$form.Text = "Frost Powershell DLL Injector"
 $form.Size = New-Object System.Drawing.Size(400,300)
 $form.BackColor = [System.Drawing.Color]::DarkSlateGray
 $form.ForeColor = [System.Drawing.Color]::White
