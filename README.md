@@ -21,3 +21,6 @@ Restricted: No scripts are allowed to run. AllSigned: Only scripts signed by a t
 You have now successfully set your execution policy to unrestricted and can now run this DLL Injector.
 
 To run this, right click the powershell file and click "Run with Powershell". Now select any DLL file and click inject to inject it into the current process.
+
+Restart.vbs (OPEN-SOURCE):
+Just like it says in the name, it restarts your computer when you open the file. In my opinion, this is way quicker than a shortcut as it needs to open CMD and then it shuts down. This is also faster for low-end computers.
