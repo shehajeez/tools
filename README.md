@@ -9,7 +9,7 @@ bereiniger.bat VT: https://www.virustotal.com/gui/file/63449b2cc7285ad0698ce4a2a
 
 The 2-3 detections are due to the obfuscation. Don't mind them.
 
-Frost PS Injector (DLL INJECTOR) Usage:
+Prisma PS Injector (DLL INJECTOR) (WORK IN PROGRESS, REWRITING) Usage:
 This project is a PowerShell script that creates a simple GUI for injecting DLL files into processes. It uses the Windows Forms framework and the CreateRemoteThread function to inject DLLs.
 
 Open PowerShell with administrative privileges: Click on the Start menu, search for "PowerShell," right-click on "Windows PowerShell," and select "Run as administrator." This will open a powershell window.
